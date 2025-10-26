@@ -158,7 +158,6 @@ Committed to engineering excellence, I consistently stay aligned with **emerging
 - Consistently enhances logical reasoning through **competitive programming** and **real-world system design challenges**
 
 **Profiles**  
-- [HackerRank](https://www.hackerrank.com/asibionix)  
 - [LeetCode](https://leetcode.com/asibionix)
 
 ---
