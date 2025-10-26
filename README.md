@@ -15,10 +15,10 @@
 
 ## <span style="color:#58a6ff;">Professional Summary</span>
 
-I am a results-driven **Flutter Developer** at **SM Technology**, dedicated to developing high-quality, maintainable, and scalable **cross-platform applications** across **Android, iOS, Web, Windows, macOS, and Linux**.  
-I specialize in **Flutter and Dart**, leveraging clean architecture, modular design, and performance-focused development.  
-Additionally, I work with **Golang** and **Docker** to design containerized, efficient backend systems.  
-I stay consistently updated with **emerging technologies and modern architectures**, ensuring the solutions I build remain reliable, forward-compatible, and production-ready.
+I am a results-driven **Flutter Developer** at **SM Technology**, focused on building high-quality, maintainable, and scalable **cross-platform applications** across **Android, iOS, Web, Windows, macOS, and Linux**.  
+My core expertise lies in **Flutter and Dart**, applying clean architecture principles, modular design, and performance-oriented development to deliver production-grade solutions.  
+I also work with **Golang** and **Docker** to architect efficient, containerized backend systems that complement modern mobile and web ecosystems.  
+Committed to engineering excellence, I consistently stay aligned with **emerging technologies, modern architectures, and best development practices** to ensure long-term reliability and scalability.
 
 ---
 
@@ -28,12 +28,13 @@ I stay consistently updated with **emerging technologies and modern architecture
 
 ## <span style="color:#58a6ff;">About Me</span>
 
-- **Flutter Developer at SM Technology**  
-- Skilled in **Flutter, Dart, Firebase, REST APIs, and Clean Architecture**  
-- Experienced in **cross-platform app development** for mobile, web, and desktop  
-- Uses **Golang** and **Docker** for backend and containerized API systems  
-- Focused on **modular design, scalability, and clean code architecture**  
-- Continuously exploring **cutting-edge frameworks and performance optimization**
+- Currently working as a **Flutter Developer at SM Technology**  
+- Strong proficiency in **Flutter, Dart, Firebase, REST APIs, and Clean Architecture**  
+- Experienced in developing **cross-platform applications** for mobile, web, and desktop  
+- Skilled in **Golang** and **Docker** for backend systems and containerized deployments  
+- Specialized in **modular design**, **scalability**, and **clean, maintainable code**  
+- Deep interest in **problem solving**, **system design**, and **software architecture patterns**  
+- Consistently stays updated with the **Flutter** and **Golang** ecosystems to deliver modern, future-ready solutions
 
 ---
 
@@ -47,8 +48,8 @@ I stay consistently updated with **emerging technologies and modern architecture
 |-----------|-------|
 | **Languages** | Dart, Golang |
 | **Frameworks** | Flutter, GetX, Provider, Bloc, Riverpod |
-| **Backend / Database** | Firebase, Supabase, PostgreSQL |
-| **Local Databases** | Isar, Hive |
+| **Backend / Database** | Firebase, Supabase, Appwrite, PostgreSQL |
+| **Local Databases** | Isar, Hive, Drift |
 | **Containerization** | Docker |
 | **UI / UX** | Material Design, Flutter UI/UX, Lottie, Rive, Figma |
 | **Tools & Platforms** | Android Studio, VS Code, Git, GitHub, Postman |
@@ -150,11 +151,11 @@ I stay consistently updated with **emerging technologies and modern architecture
 
 ## <span style="color:#58a6ff;">Problem Solving & Technical Exploration</span>
 
-- Engaged in **continuous technical exploration** of Flutter and backend ecosystems  
-- Proficient in **Golang**, **Docker**, and scalable system design  
-- Focused on **data structures**, **algorithms**, and **performance optimization**  
-- Enthusiastic about **cross-platform engineering**, **concurrency**, and **code quality excellence**  
-- Regularly solve problems and refine logical thinking through competitive programming
+- Actively engaged in **advanced problem solving** and **architectural exploration** across Flutter and backend ecosystems  
+- Skilled in **Golang**, **Docker**, and designing **scalable, distributed systems**  
+- Strong foundation in **data structures**, **algorithms**, and **computational optimization**  
+- Focused on **cross-platform performance engineering**, **concurrency**, and **high-quality code practices**  
+- Consistently enhances logical reasoning through **competitive programming** and **real-world system design challenges**
 
 **Profiles**  
 - [HackerRank](https://www.hackerrank.com/asibionix)  
