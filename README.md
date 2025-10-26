@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#58a6ff;">Asib Ionix</h1>
-<h3 align="center" style="color:#9ecbff;">Flutter & Golang Developer  |  Cross-Platform Engineer  |  Tech Enthusiast</h3>
+<h3 align="center" style="color:#9ecbff;">Flutter & Golang Developer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/asibionix">
