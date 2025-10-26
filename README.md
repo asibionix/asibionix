@@ -15,10 +15,10 @@
 
 ## <span style="color:#58a6ff;">Professional Summary</span>
 
-I am a results-driven **Flutter Developer** focused on building high-quality, maintainable, and scalable **cross-platform applications** across **Android, iOS, Web, Windows, macOS, and Linux**.  
-I specialize in **Flutter and Dart**, applying **clean architecture**, **state management best practices**, and **performance optimization** to deliver production-grade solutions.  
-Currently expanding my expertise into **Golang backend development** and **Docker-based containerization** to build efficient, deployable microservices.  
-Additionally, I’m learning **Figma** to enhance collaboration between design and development, ensuring seamless UI/UX delivery.
+I am a results-driven **Flutter Developer** at **SM Technology**, focused on delivering high-quality, maintainable, and scalable **cross-platform applications** across **Android, iOS, Web, Windows, macOS, and Linux**.  
+I specialize in **Flutter and Dart**, following clean architecture principles, modular code organization, and performance optimization.  
+I also work with **Golang backend development** and **Docker containerization**, integrating efficient APIs and deployable microservices.  
+Passionate about **technology evolution**, I consistently explore and stay updated with new frameworks, architectures, and cross-platform innovations to build reliable, future-ready solutions.
 
 ---
 
@@ -28,12 +28,12 @@ Additionally, I’m learning **Figma** to enhance collaboration between design a
 
 ## <span style="color:#58a6ff;">About Me</span>
 
-- Working as a **Flutter Developer** at **SM Technology**  
-- Skilled in **Flutter, Dart, Firebase, REST APIs, and Clean Architecture**  
-- Building **cross-platform apps** for **mobile, web, and desktop**  
-- Exploring **Golang + Docker** for backend and API development  
-- Focused on **scalability, modularity, and clean code architecture**  
-- Open to collaboration on **enterprise-grade Flutter and open-source projects**
+- Flutter Developer at **SM Technology**  
+- Expert in **Flutter, Dart, Firebase, REST APIs, and Clean Architecture**  
+- Builds **cross-platform apps** for **mobile, web, and desktop environments**  
+- Skilled in **Golang** for backend services and **Docker** for containerized deployments  
+- Focused on **modular design, scalability, and clean code principles**  
+- Constantly exploring **modern frameworks, libraries, and performance-driven architectures**
 
 ---
 
@@ -148,21 +148,15 @@ Additionally, I’m learning **Figma** to enhance collaboration between design a
   <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e07c-4f02-9f0c-0f7be9d7a855.gif" width="100%" height="3px" />
 </div>
 
-## <span style="color:#58a6ff;">Current Learning & Focus Areas</span>
+## <span style="color:#58a6ff;">Problem Solving & Technical Exploration</span>
 
-**Technical Growth**
-- Expanding into **Golang backend development** for modular APIs and microservices  
-- Learning **Docker containerization** for modern deployment workflows  
-- Strengthening **Flutter Web & Desktop** development for full cross-platform coverage  
-- Enhancing **database skills with PostgreSQL** and SQL optimization  
-- Practicing **UI/UX workflows with Figma** for design–dev alignment  
+- Continuously exploring **advanced Flutter techniques** and **new cross-platform capabilities**  
+- Expanding expertise in **Golang**, **Docker**, and **system architecture design**  
+- Practicing **data structures, algorithms**, and **system optimization** through problem-solving platforms  
+- Focused on **performance tuning**, **concurrency**, and **scalable system design**  
+- Staying updated with **modern frameworks, architectural improvements**, and **industry trends**
 
-**Problem Solving**
-- Focusing on **data structures, algorithms, and system design**  
-- Practicing **dynamic programming, recursion, optimization, and concurrency**  
-- Building strong foundations in **complexity analysis and architecture scalability**  
-
-**Profiles**
+**Profiles**  
 - [HackerRank](https://www.hackerrank.com/asibionix)  
 - [LeetCode](https://leetcode.com/asibionix)
 
