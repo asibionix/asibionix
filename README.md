@@ -15,10 +15,10 @@
 
 ## <span style="color:#58a6ff;">Professional Summary</span>
 
-I am a results-driven **Flutter Developer** at **SM Technology**, focused on delivering high-quality, maintainable, and scalable **cross-platform applications** across **Android, iOS, Web, Windows, macOS, and Linux**.  
-I specialize in **Flutter and Dart**, following clean architecture principles, modular code organization, and performance optimization.  
-I also work with **Golang backend development** and **Docker containerization**, integrating efficient APIs and deployable microservices.  
-Passionate about **technology evolution**, I consistently explore and stay updated with new frameworks, architectures, and cross-platform innovations to build reliable, future-ready solutions.
+I am a results-driven **Flutter Developer** at **SM Technology**, dedicated to developing high-quality, maintainable, and scalable **cross-platform applications** across **Android, iOS, Web, Windows, macOS, and Linux**.  
+I specialize in **Flutter and Dart**, leveraging clean architecture, modular design, and performance-focused development.  
+Additionally, I work with **Golang** and **Docker** to design containerized, efficient backend systems.  
+I stay consistently updated with **emerging technologies and modern architectures**, ensuring the solutions I build remain reliable, forward-compatible, and production-ready.
 
 ---
 
@@ -28,12 +28,12 @@ Passionate about **technology evolution**, I consistently explore and stay updat
 
 ## <span style="color:#58a6ff;">About Me</span>
 
-- Flutter Developer at **SM Technology**  
-- Expert in **Flutter, Dart, Firebase, REST APIs, and Clean Architecture**  
-- Builds **cross-platform apps** for **mobile, web, and desktop environments**  
-- Skilled in **Golang** for backend services and **Docker** for containerized deployments  
-- Focused on **modular design, scalability, and clean code principles**  
-- Constantly exploring **modern frameworks, libraries, and performance-driven architectures**
+- **Flutter Developer at SM Technology**  
+- Skilled in **Flutter, Dart, Firebase, REST APIs, and Clean Architecture**  
+- Experienced in **cross-platform app development** for mobile, web, and desktop  
+- Uses **Golang** and **Docker** for backend and containerized API systems  
+- Focused on **modular design, scalability, and clean code architecture**  
+- Continuously exploring **cutting-edge frameworks and performance optimization**
 
 ---
 
@@ -150,11 +150,11 @@ Passionate about **technology evolution**, I consistently explore and stay updat
 
 ## <span style="color:#58a6ff;">Problem Solving & Technical Exploration</span>
 
-- Continuously exploring **advanced Flutter techniques** and **new cross-platform capabilities**  
-- Expanding expertise in **Golang**, **Docker**, and **system architecture design**  
-- Practicing **data structures, algorithms**, and **system optimization** through problem-solving platforms  
-- Focused on **performance tuning**, **concurrency**, and **scalable system design**  
-- Staying updated with **modern frameworks, architectural improvements**, and **industry trends**
+- Engaged in **continuous technical exploration** of Flutter and backend ecosystems  
+- Proficient in **Golang**, **Docker**, and scalable system design  
+- Focused on **data structures**, **algorithms**, and **performance optimization**  
+- Enthusiastic about **cross-platform engineering**, **concurrency**, and **code quality excellence**  
+- Regularly solve problems and refine logical thinking through competitive programming
 
 **Profiles**  
 - [HackerRank](https://www.hackerrank.com/asibionix)  
