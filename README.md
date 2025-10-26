@@ -3,162 +3,166 @@
 
 ---
 
-### Professional Summary
+### 🧭 Professional Summary
 
-I am a results-driven **Flutter Developer** with a passion for building **high-quality, maintainable, and scalable applications** across multiple platforms.  
-I specialize in **Flutter and Dart**, focusing on clean architecture, backend integration, and cross-platform performance optimization.  
-I am also exploring **Golang** and **Docker-based backend systems** to expand my technical depth and deliver containerized, full-stack solutions.  
-My long-term goal is to master the **entire Flutter ecosystem** — from **mobile (Android & iOS)** to **desktop (Windows, macOS, Linux)** and **web** applications — ensuring a complete, cross-platform development expertise.
-
----
-
-### About Me
-
-- Working as a **Flutter Developer** at **SM Technology** (focused on mobile app development).  
-- Skilled in **Flutter, Dart, Firebase, REST APIs, and Clean Architecture**.  
-- Experienced in cross-platform development, performance tuning, and lifecycle optimization.  
-- Independently learning **Golang** and **Docker** for backend and API systems to strengthen full-stack development understanding.  
-- Expanding expertise in **Flutter for all platforms** — Android, iOS, Web, Windows, Linux, and macOS.  
-- Strong advocate for **modular architecture**, **maintainable code**, and **scalable UI design**.  
-- Open to collaboration on enterprise-grade Flutter projects and open-source initiatives.
+I am a results-driven **Flutter Developer** focused on building high-quality, maintainable, and scalable **cross-platform applications** across **Android, iOS, Web, Windows, macOS, and Linux**.  
+I specialize in **Flutter and Dart**, applying **clean architecture, modular design**, and **state management best practices** to deliver smooth, performant apps.  
+Currently expanding my skill set into **Golang backend development** and **Docker-based containerization** for full-stack, production-grade solutions.  
+I’m also learning **Figma** to strengthen my design-to-development workflow and collaborate more efficiently with UI/UX teams.
 
 ---
 
-### Technical Skills
+### 👨‍💻 About Me
+
+- Working as a **Flutter Developer** at **SM Technology**  
+- Skilled in **Flutter, Dart, Firebase, REST APIs, and Clean Architecture**  
+- Building **cross-platform apps** for **mobile, web, and desktop** (Android, iOS, Web, Windows, macOS, Linux)  
+- Exploring **Golang + Docker** for backend and API development  
+- Focused on **scalable architecture, maintainability**, and **automation workflows**  
+- Open to collaborating on **enterprise-grade Flutter projects** and open-source contributions  
+
+---
+
+### ⚙️ Technical Skills
 
 | Category | Tools |
 |-----------|-------|
 | **Languages** | Dart, Golang |
-| **Frameworks** | Flutter, GetX, Provider, Bloc |
+| **Frameworks** | Flutter, GetX, Provider, Bloc, Riverpod |
 | **Backend / Database** | Firebase, Supabase, PostgreSQL |
 | **Local Databases** | Isar, Hive |
 | **Containerization** | Docker |
-| **UI / UX** | Material Design, Flutter UI/UX, Lottie, Rive |
-| **Platforms** | Android, iOS, Web, Windows, macOS, Linux |
-| **Tools & IDEs** | Android Studio, VS Code, Git, GitHub, Postman |
+| **UI / UX** | Material Design, Flutter UI/UX, Lottie, Rive, Figma |
+| **Tools & Platforms** | Android Studio, VS Code, Git, GitHub, Postman |
 
 ---
 
-### Flutter Development Tools & Libraries (Updated)
+### 🧰 Flutter Development Tools & Libraries (Updated)
 
-#### Utility Storage
-
-| Library | Description |
-|----------|-------------|
-| **GetStorage** | Lightweight key-value storage; seamless with GetX. |
-| **Flutter Secure Storage** | Secure encrypted storage for sensitive data. |
-| **Shared Preferences** | Persistent storage for non-sensitive key-value data. |
-
-#### Local Database Storage
+#### Utility Storage  
+For lightweight key-value storage like tokens or user preferences.
 
 | Library | Description |
 |----------|-------------|
-| **Isar** | High-performance NoSQL database built for Flutter. |
-| **Hive** | Lightweight, fast NoSQL DB for small to medium data. |
-| **Drift** | SQLite ORM for structured, relational local data. |
+| **GetStorage** | Lightweight key-value storage, ideal with GetX. |
+| **Flutter Secure Storage** | Secure data encryption using Keychain/Keystore. |
+| **Shared Preferences** | Simple persistent key-value storage (non-sensitive). |
 
-#### Remote Database / Backend as a Service (BaaS)
+#### Local Database Storage  
+For structured, persistent offline data storage.
+
+| Library | Description |
+|----------|-------------|
+| **Isar** | Super-fast NoSQL database optimized for Flutter. |
+| **Hive** | Lightweight NoSQL DB for small to medium data. |
+| **Drift** | SQLite ORM supporting complex queries & relations. |
+
+#### Remote Database / BaaS  
 
 | Platform | Description |
 |-----------|-------------|
-| **Firebase** | Google's BaaS with auth, Firestore, storage, etc. |
-| **Supabase** | Open-source Firebase alternative (PostgreSQL + Auth). |
-| **Appwrite** | Self-hosted backend for auth, DB, and storage. |
+| **Firebase** | Google’s BaaS offering auth, Firestore & real-time DB. |
+| **Supabase** | Open-source Firebase alternative using PostgreSQL. |
+| **Appwrite** | Self-hosted backend server with DB, auth, and storage. |
 
-#### Networking
-
-| Library | Description |
-|----------|-------------|
-| **HTTP** | Simple HTTP client for RESTful APIs. |
-| **Dio** | Powerful HTTP client with interceptors, retries, and logging. |
-| **GraphQL** | Query language for flexible API data fetching. |
-
-#### Audio / Video Communication
+#### Networking  
 
 | Library | Description |
 |----------|-------------|
-| **Agora** | Real-time audio and video communication SDK. |
-| **WebRTC** | Peer-to-peer communication for video/voice/data. |
-| **Twilio** | Cloud-based APIs for SMS, chat, and video. |
+| **HTTP** | Standard Dart package for REST APIs. |
+| **Dio** | Advanced HTTP client with interceptors & error handling. |
+| **GraphQL** | API query language fetching structured data efficiently. |
 
-#### Messaging / Real-Time Communication
-
-| Library | Description |
-|----------|-------------|
-| **Socket.io** | Real-time WebSocket communication. |
-| **WebSocket** | Native WebSocket API for real-time updates. |
-| **Stream.io** | Real-time messaging SDK with built-in UI components. |
-
-#### State Management
+#### Audio / Video Communication  
 
 | Library | Description |
 |----------|-------------|
-| **Bloc** | Predictable state management using streams/events. |
-| **Provider** | Simplified state management using ChangeNotifier. |
-| **Riverpod** | Testable, compile-safe state management. |
-| **GetX** | Lightweight reactive state management with routing and DI. |
+| **Agora** | Real-time voice & video calling SDK. |
+| **WebRTC** | Peer-to-peer real-time communication framework. |
+| **Twilio** | Cloud communication platform for voice, chat & video. |
 
-#### Routing (Navigation)
+#### Messaging / Real-Time Communication  
 
 | Library | Description |
 |----------|-------------|
-| **GoRouter** | Official Flutter router with deep linking and web support. |
-| **AutoRoute** | Route generator supporting nested routing and guards. |
-| **Beamer** | Navigator 2.0-based scalable routing solution. |
+| **Socket.io** | Real-time communication using WebSockets. |
+| **WebSocket** | Native protocol for live data streams. |
+| **Stream.io** | Chat & messaging SDK with customizable UI components. |
 
----
+#### State Management  
 
-### Architecture Patterns
+| Library | Description |
+|----------|-------------|
+| **Bloc** | Predictable event-driven state management. |
+| **Provider** | Lightweight DI & state management using ChangeNotifier. |
+| **Riverpod** | Safer, testable, and modern alternative to Provider. |
+| **GetX** | Reactive, minimal, and built-in routing & DI support. |
+
+#### Routing (Navigation)  
+
+| Library | Description |
+|----------|-------------|
+| **GoRouter** | Official Flutter router with deep linking & web support. |
+| **AutoRoute** | Code-gen router with guards & nested routing. |
+| **Beamer** | Navigator 2.0–based routing for scalable apps. |
+
+#### Architecture Patterns  
 
 | Pattern | Description |
 |----------|-------------|
 | **Clean Architecture** | Separates domain, data, and presentation layers. |
-| **Feature First** | Organizes code by feature for better scalability. |
-| **MVVM** | Separates UI from business logic with ViewModel. |
-| **MVC** | Divides application into model, view, and controller. |
-| **DDD** | Domain-Driven Design for complex business logic. |
-| **Layer First** | Structured by technical layers (UI, logic, data). |
+| **Feature First** | Organizes code by features/modules. |
+| **MVVM** | Separates UI from business logic using ViewModels. |
+| **MVC** | Structures app into Model, View, Controller layers. |
+| **DDD (Domain-Driven Design)** | Focused on complex domain logic modeling. |
+| **Layer First Architecture** | Organizes project by technical layers (UI, logic, data). |
 
----
-
-### Design Principles
+#### Design Principles  
 
 | Principle | Description |
 |------------|-------------|
-| **SOLID** | Core principles for clean and scalable architecture. |
-| **DRY** | Avoid duplication and promote code reusability. |
-| **KISS** | Maintain simplicity for readability and reliability. |
+| **SOLID** | Core principles for clean and scalable code. |
+| **DRY (Don’t Repeat Yourself)** | Reduces redundancy through abstraction. |
+| **KISS (Keep It Simple, Stupid)** | Encourages simplicity and clarity in design. |
 
----
-
-### Design Patterns
+#### Design Patterns  
 
 | Pattern | Description |
 |----------|-------------|
-| **Singleton** | Ensures a class has a single instance globally. |
+| **Singleton** | Ensures a class has one global instance. |
 | **Factory** | Encapsulates object creation logic. |
-| **Repository** | Separates data layer from business logic. |
+| **Repository** | Abstracts data access logic from the UI layer. |
 
 ---
 
-### Current Learning & Focus Areas
+### 🚀 Current Learning & Focus Areas
 
-Even though my professional work primarily focuses on **mobile app development**, I am continuously expanding my skills to master **cross-platform Flutter development** and essential backend technologies.  
-My current self-learning and research focus areas include:
+**Technical growth**
+- Golang backend development and API architecture  
+- Docker containerization (images, registries, Docker Compose)  
+- PostgreSQL optimization and query performance  
+- Observability: logging, metrics, tracing basics  
+- Flutter cross-platform mastery (mobile, web, desktop ecosystems)  
+- UI/UX workflows with **Figma prototyping**  
 
-- **Cross-Platform Mastery:** Building Flutter apps for **Android, iOS, Web, Windows, macOS, and Linux** using adaptive design and responsive UI principles.  
-- **Backend Fundamentals:** Learning **Golang** and **Docker** to understand backend systems, APIs, and deployment pipelines.  
-- **Database & Architecture:** Enhancing knowledge in **PostgreSQL**, schema design, and optimization.  
-- **System Design & Scalability:** Studying architecture patterns, observability, and system efficiency.  
-- **Problem Solving & Algorithms:** Actively solving problems on HackerRank and LeetCode to sharpen logic and data structure expertise.
+**Problem Solving**
+- Data Structures: arrays, linked lists, stacks, queues, heaps, tries  
+- Algorithms: sorting, searching, greedy, divide & conquer  
+- Graphs & Trees: BFS, DFS, shortest paths, traversals  
+- Dynamic Programming & Recursion  
+- Two-pointers & Sliding Window techniques  
+- Bit Manipulation & Hashing  
+- Complexity analysis & optimization  
+- System Design fundamentals  
+- Concurrency & thread-safe design (for Go)  
 
-**Problem-solving profiles:**  
+**Profiles**
 - [HackerRank](https://www.hackerrank.com/asibionix)  
 - [LeetCode](https://leetcode.com/asibionix)
 
 ---
 
-### GitHub Statistics
+### 📊 GitHub Statistics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=asibionix&show_icons=true&theme=dark" />
@@ -167,7 +171,7 @@ My current self-learning and research focus areas include:
 
 ---
 
-### Contact
+### 📬 Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/asibionix/">LinkedIn</a> |
